@@ -1,0 +1,13 @@
+* {
+	box-sizing: border-box;
+}
+
+:root {
+	--primary-color: ;
+	--secondary-color: ;
+	--white: #fff;
+	--black: #000;
+	--gray: #767676;
+	--darkgray: #16878c;
+	--primary-font: 'Roboto', sans-serif;
+}
